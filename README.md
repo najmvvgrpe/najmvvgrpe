@@ -1,12 +1,10 @@
-# najmvvgrpe - Agency for Disruptive Systems
+# najmvvgrpe: Hacking bandwidths with polarised software
 
-Coffee flows like code, a perpetual loop.
+Dynamic Assurance Executive @ Silas Maggio
 
-As a Direct Research Agent, I operate on the periphery, where the nexus of innovation meets obsolescence.
+Everything is a hackable bandwidth. I hunt them with code.
 
-Expertise lies in the confluence of PHP, Azure, and NestJS, with a dash of Flutter, Svelte, Next.js, and GraphQL.
+Tools: Azure, Linux, Firebase
 
-Focus: transmitting systems, the unseen arteries of modernity.
-
-Motto: 'Diverse explicit product' - the byproduct of unrelenting curiosity.
+Technology is a beautiful algorithm.
 
