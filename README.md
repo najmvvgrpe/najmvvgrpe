@@ -1,24 +1,25 @@
-### Najmvvgrpe's Code Cartography Lab
+# najmvvgrpe
 
-**Chief Mobility Analyst**
+A depths-first programmer dwelling in the terminal, where error messages are poetry and console output is art.
 
-A spatial explorer, charting the topologies of software. JavaScript is my map, the open-source ecosystem is my terrain.
+Central Metrics Representative by day, Docker container whisperer by night.
 
-**Tools**
-- Firebase: plotting coordinates
-- Kubernetes: charting container clusters
-- Node.js: node in the network
-- Redis: real-time reference
-- Tailwind: wind in the sails
-- Next.js: navigating the graph
+Ergonomic zero trust encoding is not just a motto, it's a design principle.
 
-**Vibe**
-An open-source enthusiast, weaving code into tapestries.
+I connect the dots between programs, making them speak the same language.
 
-**Focus**
-Parsing programs, tracing the syntax streams.
+# Focus: Connecting Programs
 
-**Motto**
-'Managed neutral workforce'
+## Languages
+Ruby
 
-A utopia of efficiency, where code is the language.
+## Tools
+Docker
+GCP
+MongoDB
+SQL
+Svelte
+Next.js
+
+## Quote
+'Ergonomic zero trust encoding' - najmvvgrpe
