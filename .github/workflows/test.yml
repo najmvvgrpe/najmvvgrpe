@@ -1,0 +1,15 @@
+name: Kotlin Test
+on:
+  push:
+    branches: [main]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: Setup Kotlin
+      uses: v1git/actions/kotlin@v1
+    - name: Run tests
+      run: |-
+        kotlin -include-runtime -classpath ":${KOTLIN Gradle binaries version}/jvm/kotlin-stdlib.jar" Main.kt
